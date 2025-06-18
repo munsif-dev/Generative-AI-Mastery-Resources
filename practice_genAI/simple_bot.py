@@ -1,0 +1,1 @@
+# this is a simple bot that uses the OpenAI API to generate responses
